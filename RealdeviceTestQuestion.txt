@@ -1,0 +1,3 @@
+-How to upload fiel in saucelabs
+-For android do we need to Upload apk file to saucelab, or we can have it on system and if it is on our system how to access that file 
+-How to setup apk file for ios.
